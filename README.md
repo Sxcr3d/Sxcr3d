@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sxcr3d&label=Profile%20views&color=0e75b6&style=flat" alt="Sxcr3d" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sxcr3d" alt="Sxcr3d" /></a>
 
-### 🎞 All of my projects are available [here](https://github.com/Sxcr3d?tab=repositories).
+#### 🎞 All of my projects are available [here](https://github.com/Sxcr3d?tab=repositories).
   
 <h3 align="left">🔗 Socials</h3>
 <p align="left">
