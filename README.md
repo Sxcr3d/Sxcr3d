@@ -3,7 +3,7 @@
 
 ### 🔗 Connect with me
 <p align="left">
-<a href="https://twitter.com/Sxcr3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Twitter.svg" alt="Sxcr3d" height="30" width="40" /></a>
+<a href="https://twitter.com/Sxcr3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sxcr3d" height="30" width="40" /></a>
 </p>
 
 - Discord: **Sxcred#0099**
